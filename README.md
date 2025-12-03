@@ -2,7 +2,6 @@
 
 **Author:** Nikhilesh Kumar  
 **Email:** nikhileshkumar97@gmail.com
-**GitHub:** https://github.com/naaikey
 
 ---
 
